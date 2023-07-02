@@ -1,6 +1,7 @@
 
 
 # Dicee
+![file1](https://github.com/liangliang1120/iOS-app/assets/35073431/b8ffeb4b-9ed2-4b8b-9ab8-ff844a9c9ec4)
 
 ## Goal
 
@@ -24,8 +25,4 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 * Learn about randomisation and how to generate random numbers in Swift.
 
 
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
 
