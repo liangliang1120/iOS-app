@@ -1,7 +1,8 @@
 
 
 # Dicee
-<img src="https://github.com/liangliang1120/iOS-app/raw/main/assets/35073431/b8ffeb4b-9ed2-4b8b-9ab8-ff844a9c9ec4.gif" alt="file1" width="300">
+<img src="https://github.com/liangliang1120/iOS-app/assets/35073431/b8ffeb4b-9ed2-4b8b-9ab8-ff844a9c9ec4" width="200">
+
 
 ## Goal
 
