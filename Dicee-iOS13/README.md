@@ -1,20 +1,24 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+
 
 # Dicee
 
-## Our Goal
+## [GitHub link](https://github.com/liangliang1120/iOS-app/tree/main/Dicee-iOS13)
+<img src="https://github.com/liangliang1120/iOS-app/assets/35073431/b8ffeb4b-9ed2-4b8b-9ab8-ff844a9c9ec4" width="200">
 
-The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you a lot of important programming knowledge, while building a neat dice app.
 
-## What you will create
+## Goal
+
+The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you a lot of important programming knowledge while building a neat dice app.
+
+## What 
 
 We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button or by shaking your phone. With this app in your pocket, you’ll be fully set up to settle any score on the go!
 
 
-## What you will learn
+## Knowledge
 
 * How to clone an existing Xcode project from GitHub.
-* Create an app with behaviour and functionality.
+* Create an app with behavior and functionality.
 * Create links between the Interface Builder files and code using IBActions and IBOutlets.
 * Get familiar with the Xcode code editor.
 * * Learn to use comments to annotate code.
@@ -24,8 +28,4 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 * Learn about randomisation and how to generate random numbers in Swift.
 
 
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
 
