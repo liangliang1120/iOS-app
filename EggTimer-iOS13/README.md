@@ -1,13 +1,16 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 # Egg Timer
+![file1](https://github.com/liangliang1120/iOS-app/assets/35073431/d912e72b-eb1d-4a10-885c-1afef30c3080)
 
-## Our Goal
+## [Egg Timer GitHub Link](https://github.com/liangliang1120/iOS-app/tree/main/EggTimer-iOS13)
 
-You will need to apply everything you have learnt before to complete this challenge. But most importantly, we want you to get confortable with looking up how to do something you've never done before. Follow the 5 step process you learnt in the Xylophone module and build a beautiful egg timer app to make yourself proud. 
+## Goal
+An application for different kinds of eggs, a countdown timer. Will alarm you when it's done.
 
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
-
+## Key Point
+- AVFoundation
+- UIKit
+- Dictionary
+- Control flow if else, switch statement
+- Optionals
+- Countdown timer: Timer.scheduledTimer
+- UIProgressView
